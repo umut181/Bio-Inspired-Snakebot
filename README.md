@@ -12,6 +12,6 @@ Hardware & Software Specs:
 - Two biomimetic locomotion gates available, namely lateral undulation and sidewinding.
 - Chassis is designed with OnShape and 3D-printed with PLA+ through 4 rounds of physical durability testing.
 - Main electronic hardware includes Arduino Uno microcontroller, ESP32 Cam Module (OV2460), 3S 11.1V LiPo Battery and 300W Buck Converter.
-- Utilizing 6-12 MG995 servo motors to create periodic oscillation of body links and forward propulsion.
+- Utilizing 12 DOF MG995 servo motor chain in alternating yaw/pitch axes to create periodic oscillation of body links and forward propulsion.
 - Current version uses passive wheel rails to inflict anisotropic friction.
 - Robot firmware coded in C++. Simulation & data analysis in Python.
