@@ -1,7 +1,7 @@
 **This paper was published in IEEE SSRR 2025 and won "Rising Star Award":**
 *U. Cakar, "Comparative Gait Performance Study in Biomimetic Snake Robots for Post-Earthquake Search and Rescue Tasks," 2025 IEEE International Symposium on Safety Security Rescue Robotics (SSRR), Galway, Ireland, 2025, pp. 209-214, doi: 10.1109/SSRR68451.2025.11391294.*
 
-The research simulation pipeline and 3D-printed mobile robotic system created by Umut Cakar to analyze the performance of modular snake robots on virtual post-earthquake disaster zones. Features "lateral undulation" and "sidewinding" locomotion gaits, and "rubble" and "ramp" terrains.
+The simulation system and the 3D-printed mobile robotic prototype were created by Umut Cakar to analyze the performance of modular snake robots on virtual post-earthquake disaster zones. Features "lateral undulation" and "sidewinding" locomotion gaits, and "rubble" and "ramp" terrains.
 
 Simulation Guide:
 - Select the locomotion gait and terrain type. 
